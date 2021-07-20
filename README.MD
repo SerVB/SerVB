@@ -1,5 +1,10 @@
 **English** | [Русский](https://github.com/SerVB/SerVB/blob/master/README-RU.MD)
 
+![Visits Badge](https://img.shields.io/badge/Profile-stats:-blue)
+![Visits Badge](https://badges.pufler.dev/visits/SerVB/SerVB)
+![Years Badge](https://badges.pufler.dev/years/SerVB)
+![Repos Badge](https://badges.pufler.dev/repos/SerVB)
+
 👷‍♂ I create [Projector](https://jetbrains.com/projector) at JetBrains. If you want to use Swing applications like IDEA in an iPad, an Android tablet, or a browser, take a look at our project :)
 
 👨‍🏭 As a 20% project, I work on [Kotlin/Py backend](https://github.com/krzema12/kotlin-python).
